@@ -4,16 +4,27 @@
     box-sizing: border-box;
 }
 
-.logo{
-    margin-left: 20px;
+html{
+    font-size: 16px;
 }
-.vertical{
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 248, 249);
+}
+#logo{
+    margin-left: 20px;
     vertical-align: middle;
+}
+#logo-text{
+    vertical-align: middle;
+    font-size: 38px;
+    font-weight: 900;
 }
 .centro{
     padding-left: 75px;
     padding-top: 20px;
-    background-color: rgb(246, 248, 249)
+    background-color: rgb(246, 248, 249);
 }
 .bottoni{
     background-color: #fff;
